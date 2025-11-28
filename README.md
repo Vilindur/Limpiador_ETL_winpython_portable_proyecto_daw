@@ -49,7 +49,9 @@ Cómo ejecutar si usas WinPython Portable o en mi caso WinPythonDot:
 
 ------------------------------------------------------------------------------------------------------
 
-Copia la carpeta del proyecto dentro de tu carpeta de WinPython/Dot.
+Copia cada carpeta del proyecto dentro de tu carpeta de WinPython/Dot.
+
+Copia el archivo EJECUTAR.bat y los archivos Home.py y requirements.txt en la misma carpeta de WinPython/Dot.
 
 Ejecuta el archivo EJECUTAR.bat en comando o doble clic.
 
