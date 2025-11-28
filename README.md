@@ -7,6 +7,7 @@ IMPORTANTE: Esto es un proyecto simple y dedicado a ser un TFGS. Cabe destacar q
 
 Todo feedback es bienvenido :D
 
+------------------------------------------------------------------------------------------------------
 
 🛠️ Funcionalidades
 
@@ -24,7 +25,7 @@ La aplicación cuenta con 6 herramientas especializadas:
 
 6.- Radiografía (Data Profiler): Auditoría de calidad y detección de PK duplicadas.
 
-
+------------------------------------------------------------------------------------------------------
 
 📦 Instalación y Uso
 
@@ -42,17 +43,25 @@ pip install -r requirements.txt
 
 streamlit run Home.py
 
+------------------------------------------------------------------------------------------------------
 
+Cómo ejecutar si usas WinPython Portable o en mi caso WinPythonDot:
 
-Si usas WinPython Portable:
+------------------------------------------------------------------------------------------------------
 
-Copia la carpeta del proyecto dentro de tu carpeta de WinPython.
+Copia la carpeta del proyecto dentro de tu carpeta de WinPython/Dot.
 
-Ejecuta el archivo EJECUTAR.bat.
+Ejecuta el archivo EJECUTAR.bat en comando o doble clic.
+
+Esperas a que aparezca la URL local, la copias en el navegador, ENTER y listo para usar.
+
+------------------------------------------------------------------------------------------------------
 
 🔐 Privacidad
 
 Esta herramienta funciona 100% en local. Ningún dato abandona el equipo donde se ejecuta.
+
+------------------------------------------------------------------------------------------------------
 
 📂 Estructura
 
@@ -61,3 +70,5 @@ pages/: Scripts de las herramientas individuales.
 core/: Lógica de negocio y librerías compartidas.
 
 archive/: Versiones antiguas de scripts.
+
+------------------------------------------------------------------------------------------------------
